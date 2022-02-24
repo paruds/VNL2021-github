@@ -1,0 +1,278 @@
+,Shirt Number,Player Name,Team,Points,Errors,Attemps,Average per match,Success %,Total
+0,14,Abdel-Aziz Nimir,NED,36,55,94,3.0,19.46,185
+1,9,Leon Venero Wilfredo,POL,32,36,69,2.46,23.36,137
+2,8,Ivovic Marko,SRB,20,35,168,1.33,8.97,223
+3,16,Luburic Drazen,SRB,19,44,62,1.27,15.2,125
+4,3,Schott Ruben,GER,18,40,120,1.2,10.11,178
+5,2,Pajenk Alen,SLO,18,48,191,1.06,7.0,257
+6,9,Ngapeth Earvin,FRA,18,42,100,1.5,11.25,160
+7,17,Mikhaylov Maxim,RUS,17,34,135,1.21,9.14,186
+8,4,Hoag Nicholas,CAN,17,32,98,1.13,11.56,147
+9,20,Bieniek Mateusz,POL,17,30,106,1.31,11.11,153
+10,18,Souza Ricardo Lucarelli,BRA,17,35,126,1.13,9.55,178
+11,11,Kazemi Saber,IRI,15,39,105,1.07,9.43,159
+12,18,Čebulj Klemen,SLO,15,52,140,0.88,7.25,207
+13,4,Atanasov Martin,BUL,13,17,52,0.87,15.85,82
+14,1,Štern Tonček,SLO,13,46,126,0.87,7.03,185
+15,16,Ropret Gregor,SLO,13,28,179,0.76,5.91,220
+16,24,Kobzar Igor,RUS,13,28,120,0.87,8.07,161
+17,11,Christenson Micah,USA,13,18,129,1.08,8.12,160
+18,20,Weber Linus,GER,12,47,82,0.92,8.51,141
+19,22,Esfandiar Amirhossein,IRI,12,27,72,0.86,10.81,111
+20,11,Drzyzga Fabian,POL,12,27,112,0.71,7.95,151
+21,20,Nelli Gabriele,ITA,12,37,77,0.92,9.52,126
+22,9,Leal Hidalgo Yoandy,BRA,12,21,115,0.8,8.11,148
+23,4,Patry Jean,FRA,11,27,108,0.79,7.53,146
+24,14,Asparuhov Asparuh,BUL,11,30,88,0.73,8.53,129
+25,12,Tuinstra Bennie Junior,NED,11,37,132,0.79,6.11,180
+26,7,Volkov Dmitry,RUS,11,29,87,0.79,8.66,127
+27,29,Bottolo Mattia,ITA,11,26,73,0.73,10.0,110
+28,7,Krsmanovic Petar,SRB,10,31,198,0.67,4.18,239
+29,18,Kliuka Egor,RUS,10,34,128,0.71,5.81,172
+30,13,Vernon-Evans Sharone,CAN,10,38,66,0.67,8.77,114
+31,20,Szwarc Arthur,CAN,10,25,81,0.67,8.62,116
+32,18,Michieletto Alessandro,ITA,10,31,133,0.67,5.75,174
+33,12,Santos Isac,BRA,10,36,104,0.62,6.67,150
+34,14,Correia De Souza Douglas,BRA,10,20,85,0.59,8.7,115
+35,2,Pereyra Federico,ARG,10,32,70,0.67,8.93,112
+36,6,Stahl Mitchell,USA,10,32,58,0.77,10.0,100
+37,14,Ishikawa Yuki,JPN,9,32,112,0.64,5.88,153
+38,18,Podrascanin Marko,SRB,9,34,183,0.6,3.98,226
+39,20,Smith David,USA,9,23,84,0.64,7.76,116
+40,2,Muzaj Maciej,POL,9,14,40,0.82,14.29,63
+41,23,Pinali Giulio,ITA,9,24,67,0.6,9.0,100
+42,26,Cortesia Lorenzo,ITA,9,12,157,0.64,5.06,178
+43,8,De Souza Wallace,BRA,9,27,127,0.53,5.52,163
+44,18,Andringa Robbert,NED,9,38,69,0.64,7.76,116
+45,8,Loser Agustin,ARG,9,35,109,0.75,5.88,153
+46,16,Bultor Daryl,FRA,8,27,69,0.47,7.69,104
+47,18,Rossard Thibault,FRA,8,21,62,0.8,8.79,91
+48,9,Seganov Georgi,BUL,8,19,109,0.53,5.88,136
+49,2,Dosanjh Arshdeep,AUS,8,30,120,0.53,5.06,158
+50,17,Salehi Meisam,IRI,8,39,125,0.53,4.65,172
+51,14,Atanasijevic Aleksandar,SRB,8,29,84,0.53,6.61,121
+52,18,Muagututia Garrett,USA,8,21,97,0.53,6.35,126
+53,21,Fornal Tomasz,POL,8,9,31,0.67,16.67,48
+54,22,Bednorz Bartosz,POL,8,8,24,0.89,20.0,40
+55,17,Clevenot Trevor,FRA,7,16,105,0.5,5.47,128
+56,19,Sokolov Tsvetan,BUL,7,16,33,0.88,12.5,56
+57,17,Zimmermann Jan,GER,7,28,146,0.47,3.87,181
+58,21,Takahashi Ran,JPN,7,29,105,0.47,4.96,141
+59,6,Mousavi Eraghi Seyed Mohammad,IRI,7,35,82,0.5,5.65,124
+60,2,Kovacevic Uros,SRB,7,31,103,0.7,4.96,141
+61,4,Kozamernik Jan,SLO,7,23,167,0.44,3.55,197
+62,22,Wiltenburg Twan,NED,7,13,97,0.5,5.98,117
+63,25,van Tilburg Stijn,NED,7,11,53,0.47,9.86,71
+64,1,Podlesnykh Yaroslav,RUS,7,20,76,0.5,6.8,103
+65,2,Perrin John Gordon,CAN,7,25,118,0.54,4.67,150
+66,11,Brizard Antoine,FRA,6,34,109,0.38,4.03,149
+67,2,Ebadipour Ghara H. Milad,IRI,6,32,103,0.46,4.26,141
+68,10,Bogdan Denis,RUS,6,22,61,0.4,6.74,89
+69,11,Pankov Pavel,RUS,6,16,59,0.4,7.41,81
+70,12,Holt Maxwell,USA,6,27,71,0.5,5.77,104
+71,10,Sclater Ryan Joseph,CAN,6,20,71,0.4,6.19,97
+72,7,Tillie Kevin,FRA,5,20,100,0.31,4.0,125
+73,11,Grozdanov Aleks,BUL,5,9,22,1.67,13.89,36
+74,7,Sossenheimer David,GER,5,20,36,0.42,8.2,61
+75,9,Gholami Masoud,IRI,5,10,116,0.33,3.82,131
+76,4,Volvich Artem,RUS,5,13,139,0.33,3.18,157
+77,17,Jaeschke Thomas,USA,5,9,50,0.42,7.81,64
+78,15,Sbertoli Riccardo,ITA,5,19,106,0.33,3.85,130
+79,1,Rezende Bruno Mossa,BRA,5,8,135,0.29,3.38,148
+80,23,Saadat Bardia,IRI,5,15,35,0.36,9.09,55
+81,1,Anderson Matthew,USA,5,23,46,0.56,6.76,74
+82,3,Sander Taylor,USA,5,11,29,0.83,11.11,45
+83,1,Chinenyeze Barthélémy,FRA,4,21,174,0.24,2.01,199
+84,12,Boyer Stephen,FRA,4,24,63,0.27,4.4,91
+85,19,Louati Yacine,FRA,4,17,50,0.31,5.63,71
+86,1,Karyagin Denis,BUL,4,17,51,0.27,5.56,72
+87,5,Reichert Moritz,GER,4,30,97,0.27,3.05,131
+88,18,Krage Florian,GER,4,12,112,0.31,3.12,128
+89,21,Krick Tobias,GER,4,43,71,0.29,3.39,118
+90,7,Weir James,AUS,4,13,46,0.27,6.35,63
+91,15,Smith Luke,AUS,4,21,113,0.33,2.9,138
+92,27,Senica Max,AUS,4,13,52,0.27,5.8,69
+93,2,Onodera Taishi,JPN,4,15,101,0.31,3.33,120
+94,12,Sekita Masahiro,JPN,4,12,84,0.29,4.0,100
+95,15,Ri Haku,JPN,4,9,88,0.27,3.96,101
+96,12,Peric Pavle,SRB,4,25,38,0.27,5.97,67
+97,20,Kurkaev Ilyas,RUS,4,20,57,0.27,4.94,81
+98,5,Ensing Kyle,USA,4,22,60,0.29,4.65,86
+99,8,Defalco Torey,USA,4,33,97,0.27,2.99,134
+100,15,Kochanowski Jakub,POL,4,13,76,0.33,4.3,93
+101,99,Huber Norbert,POL,4,5,16,0.33,16.0,25
+102,11,Galassi Gianluca,ITA,4,23,55,0.5,4.88,82
+103,23,Resende Gualberto Flavio,BRA,4,10,120,0.24,2.99,134
+104,15,De Cecco Luciano,ARG,4,20,122,0.27,2.74,146
+105,18,Ramos Martin,ARG,4,17,89,0.27,3.64,110
+106,21,Faure Théo,FRA,4,7,27,0.8,10.53,38
+107,14,Le Goff Nicolas,FRA,3,14,116,0.18,2.26,133
+108,25,Parapunov Radoslav,BUL,3,30,51,0.2,3.57,84
+109,1,Fromm Christian,GER,3,20,43,0.2,4.55,66
+110,13,Hirsch Simon,GER,3,13,64,0.21,3.75,80
+111,1,Graham Beau,AUS,3,25,114,0.2,2.11,142
+112,1,Shimizu Kunihiro,JPN,3,10,88,0.23,2.97,101
+113,6,Yamauchi Akihiro,JPN,3,6,110,0.2,2.52,119
+114,17,Urnaut Tine,SLO,3,38,138,0.18,1.68,179
+115,4,Ter Horst Thijs,NED,3,23,47,0.27,4.11,73
+116,15,Poletaev Victor,RUS,3,20,67,0.2,3.33,90
+117,17,Vigrass Graham,CAN,3,4,58,0.38,4.62,65
+118,28,Recine Francesco,ITA,3,20,98,0.2,2.48,121
+119,5,Borges Almeida Silva Mauricio,BRA,3,9,43,0.18,5.45,55
+120,6,Gil Kreling Fernando,BRA,3,5,52,0.18,5.0,60
+121,12,Sharifi Morteza,IRI,3,7,19,0.27,10.34,29
+122,13,Kubiak Michal,POL,3,20,102,0.25,2.4,125
+123,25,Vitelli Marco,ITA,3,20,57,0.27,3.75,80
+124,5,Šket Alen,SLO,3,11,35,0.19,6.12,49
+125,21,Souza Alan,BRA,3,14,60,0.19,3.9,77
+126,13,Palacios Ezequiel,ARG,3,10,17,0.27,10.0,30
+127,1,Nowakowski Piotr,POL,3,12,63,0.25,3.85,78
+128,26,Ivanov Svetoslav,BUL,3,6,44,0.27,5.66,53
+129,13,Muserskiy Dmitriy,RUS,3,14,19,0.43,8.33,36
+130,13,De Souza Mauricio Luiz,BRA,3,11,97,0.23,2.7,111
+131,12,Lima Bruno,ARG,3,22,43,0.43,4.41,68
+132,24,Karimisouchelmaei Javad,IRI,3,6,16,0.5,12.0,25
+133,8,Lyneel Julien,FRA,2,6,24,0.29,6.25,32
+134,2,Chavdarov Stefan,BUL,2,22,64,0.15,2.27,88
+135,3,Kolev Nikolay,BUL,2,4,94,0.13,2.0,100
+136,6,Kaliberda Denys,GER,2,17,61,0.15,2.5,80
+137,16,Burggräf Eric,GER,2,6,9,0.13,11.76,17
+138,8,O'Dea Trent,AUS,2,14,114,0.13,1.54,130
+139,12,Mote Nehemiah,AUS,2,10,129,0.14,1.42,141
+140,19,Otsuka Tatsunori,JPN,2,14,66,0.13,2.44,82
+141,18,Vadi Mohammad Taher,IRI,2,6,47,0.22,3.64,55
+142,9,Jovovic Nikola,SRB,2,13,142,0.13,1.27,157
+143,9,Vincic Dejan,SLO,2,1,14,0.14,11.76,17
+144,11,Štern Žiga,SLO,2,8,22,0.12,6.25,32
+145,19,Možič Rok,SLO,2,18,35,0.12,3.64,55
+146,17,Parkinson Michael,NED,2,9,68,0.15,2.53,79
+147,2,Vlasov Ilia,RUS,2,23,44,0.13,2.9,69
+148,7,Shoji Kawika,USA,2,6,39,0.15,4.26,47
+149,13,Patch Benjamin,USA,2,19,26,0.22,4.26,47
+150,15,Sander Brenden,USA,2,9,13,0.18,8.33,24
+151,7,Maar Stephen Timothy,CAN,2,14,22,0.2,5.26,38
+152,8,Blankenau Jay,CAN,2,9,90,0.14,1.98,101
+153,14,Loeppky Eric,CAN,2,9,54,0.14,3.08,65
+154,6,Kurek Bartosz,POL,2,28,59,0.18,2.25,89
+155,21,Spirito Luca,ITA,2,4,61,0.13,2.99,67
+156,24,Cavuto Oreste,ITA,2,9,37,0.13,4.17,48
+157,7,Conte Facundo,ARG,2,35,104,0.13,1.42,141
+158,8,Plak Fabian,NED,2,12,73,0.15,2.3,87
+159,5,Kaczmarek Lukasz,POL,2,9,47,0.17,3.45,58
+160,14,Sliwka Aleksander,POL,2,9,66,0.13,2.6,77
+161,10,Kujundžić Miran,SRB,2,6,25,0.14,6.06,33
+162,4,Marouflakrani Mir Saeid,IRI,2,9,99,0.15,1.82,110
+163,19,Röhrs Erik,GER,2,3,3,0.15,25.0,8
+164,4,Otake Issei,JPN,2,14,16,0.33,6.25,32
+165,2,Keemink Wessel,NED,2,3,76,0.2,2.47,81
+166,32,Azeez Oluwatobi Elliot,AUS,2,15,31,0.17,4.17,48
+167,6,Stankov Vladimir,BUL,2,12,36,0.2,4.0,50
+168,1,Sanchez Matias,ARG,2,2,25,0.29,6.9,29
+169,16,Saatkamp Lucas,BRA,2,13,37,0.4,3.85,52
+170,6,Toniutti Benjamin,FRA,1,11,98,0.07,0.91,110
+171,24,Gueye Mousse,FRA,1,2,9,0.06,8.33,12
+172,10,Stankov Svetoslav,BUL,1,0,4,0.11,20.0,5
+173,22,Kartev Nikolay,BUL,1,15,79,0.08,1.05,95
+174,29,Garrett Ethan,AUS,1,22,45,0.08,1.47,68
+175,3,Fujii Naonobu,JPN,1,5,74,0.11,1.25,80
+176,17,Takanashi Kenta,JPN,1,16,66,0.07,1.2,83
+177,3,Abedini Reza,IRI,1,6,33,0.09,2.5,40
+178,15,Mojarad Aliasghar,IRI,1,15,48,0.09,1.56,64
+179,6,Gasparini Mitja,SLO,1,10,17,0.06,3.57,28
+180,15,Videčnik Matic,SLO,1,2,20,0.07,4.35,23
+181,5,van der Ent Luuc,NED,1,9,41,0.09,1.96,51
+182,10,van Zeist Maikel,NED,1,8,34,0.08,2.33,43
+183,19,de Weijer Freek,NED,1,13,67,0.09,1.23,81
+184,12,Lomacz Grzegorz,POL,1,3,65,0.06,1.45,69
+185,16,Semeniuk Kamil,POL,1,16,47,0.08,1.56,64
+186,77,Klos Karol,POL,1,7,60,0.09,1.47,68
+187,30,Mosca Leandro Ausibio,ITA,1,5,108,0.07,0.88,114
+188,11,Solé Sebastian,ARG,1,16,108,0.09,0.8,125
+189,12,Van Berkel Lucas,CAN,1,4,96,0.07,0.99,101
+190,4,Jendryk II Jeffrey,USA,1,7,35,0.08,2.33,43
+191,21,Todorovic Vuk,SRB,1,6,47,0.08,1.85,54
+192,6,Poglajen Cristian,ARG,1,14,64,0.09,1.27,79
+193,1,Sanders Tyler,CAN,1,6,58,0.12,1.54,65
+194,3,De Barros Ferreira João Rafael,BRA,1,2,6,0.25,11.11,9
+195,20,Diez Benjamin,FRA,0,0,0,,,0
+196,12,Petrov Georgi,BUL,0,15,27,0.0,0.0,42
+197,16,Ivanov Vladislav,BUL,0,0,0,,,0
+198,24,Ivanov Martin,BUL,0,0,0,,,0
+199,8,Böhme Marcus,GER,0,2,38,0.0,0.0,40
+200,10,Zenger Julian,GER,0,0,0,,,0
+201,15,Baxpöhler Noah,GER,0,4,29,0.0,0.0,33
+202,11,Perry Luke,AUS,0,0,0,,,0
+203,21,Butler Nicholas,AUS,0,1,2,0.0,0.0,3
+204,28,Taylor Tim,AUS,0,10,16,0.0,0.0,26
+205,31,Aubrey Matthew,AUS,0,5,3,0.0,0.0,8
+206,33,Flowerday Sam,AUS,0,1,0,0.0,0.0,1
+207,34,Greber Billy,AUS,0,0,0,,,0
+208,5,Fukuzawa Tatsuya,JPN,0,7,19,0.0,0.0,26
+209,16,Takahashi Kentaro,JPN,0,18,23,0.0,0.0,41
+210,20,Yamamoto Tomohiro,JPN,0,0,0,,,0
+211,24,Ogawa Tomohiro,JPN,0,0,0,,,0
+212,7,Fayazi D. Purya,IRI,0,1,16,0.0,0.0,17
+213,8,Hazratpourtalatappeh Mohammadreza,IRI,0,0,0,,,0
+214,10,Ghafour Amir,IRI,0,8,18,0.0,0.0,26
+215,16,Shafiei Ali,IRI,0,3,28,0.0,0.0,31
+216,21,Salehi Arman,IRI,0,0,0,,,0
+217,3,Kapur Milorad,SRB,0,0,0,,,0
+218,6,Pekovic Nikola,SRB,0,0,0,,,0
+219,11,Batak Aleksa,SRB,0,0,0,,,0
+220,13,Simic Stevan,SRB,0,1,21,0.0,0.0,22
+221,20,Lisinac Srecko,SRB,0,0,2,0.0,0.0,2
+222,26,Kovac Davide,SRB,0,3,2,0.0,0.0,5
+223,10,Štalekar Sašo,SLO,0,2,8,0.0,0.0,10
+224,12,Klobucar Jan,SLO,0,0,1,0.0,0.0,1
+225,13,Kovačič Jani,SLO,0,0,0,,,0
+226,6,Dronkers Just,NED,0,0,0,,,0
+227,7,Jorna Gijs,NED,0,5,25,0.0,0.0,30
+228,13,Ottevanger Steven,NED,0,0,0,,,0
+229,15,van Solkema Gijs,NED,0,1,11,0.0,0.0,12
+230,21,van Schie Stijn,NED,0,5,11,0.0,0.0,16
+231,5,Semyshev Anton,RUS,0,3,16,0.0,0.0,19
+232,6,Baranov Evgeny,RUS,0,0,0,,,0
+233,27,Golubev Valentin,RUS,0,0,0,,,0
+234,9,Hanes Jake,USA,0,1,6,0.0,0.0,7
+235,19,Averill Taylor,USA,0,4,33,0.0,0.0,37
+236,21,Watten Dustin,USA,0,0,0,,,0
+237,22,Shoji Erik,USA,0,0,0,,,0
+238,6,Pereira Jordan,CAN,0,0,0,,,0
+239,11,Jansen Vandoorn Daniel,CAN,0,11,67,0.0,0.0,78
+240,19,Bann Blair Cameron,CAN,0,0,0,,,0
+241,21,Walsh Brett James,CAN,0,6,20,0.0,0.0,26
+242,23,Demyanenko Danny,CAN,0,1,7,0.0,0.0,8
+243,10,Wojtaszek Damian,POL,0,0,0,,,0
+244,17,Zatorski Pawel,POL,0,0,0,,,0
+245,7,Balaso Fabio,ITA,0,0,0,,,0
+246,27,Scanferla Leonardo,ITA,0,0,0,,,0
+247,31,Federici Filippo,ITA,0,0,0,,,0
+248,10,Bispo dos Santos Matheus,BRA,0,0,7,0.0,0.0,7
+249,11,Kavalkievicz Gabriel,BRA,0,2,5,0.0,0.0,7
+250,15,Nascimento Maique Reis,BRA,0,0,0,,,0
+251,17,Hoss Thales,BRA,0,0,0,,,0
+252,19,Moreira Roque Felipe,BRA,0,0,1,0.0,0.0,1
+253,3,Martinez Franchi Jan,ARG,0,11,59,0.0,0.0,70
+254,5,Uriarte Nicolas,ARG,0,5,28,0.0,0.0,33
+255,16,Palonsky Luciano,ARG,0,5,15,0.0,0.0,20
+256,17,Mendez Nicolas,ARG,0,11,41,0.0,0.0,52
+257,3,Macdonald Steven,AUS,0,0,3,0.0,0.0,3
+258,19,Janusz Marcin,POL,0,0,0,,,0
+259,23,Vucicevic Bozidar,SRB,0,0,0,,,0
+260,1,Gardini Davide,ITA,0,2,4,0.0,0.0,6
+261,23,Meyer Léo,FRA,0,1,4,0.0,0.0,5
+262,13,Oya Masaki,JPN,0,4,20,0.0,0.0,24
+263,16,Tuaniga Joshua,USA,0,4,17,0.0,0.0,21
+264,3,Marshall Steven,CAN,0,3,22,0.0,0.0,25
+265,14,Crer Pablo,ARG,0,1,11,0.0,0.0,12
+266,19,Massimino Franco,ARG,0,0,0,,,0
+267,2,Grebennikov Jenia,FRA,0,0,0,,,0
+268,3,Pernuš Gregor,SLO,0,1,0,0.0,0.0,1
+269,25,Maase Lukas,GER,0,0,0,,,0
+270,9,Danani Santiago,ARG,0,0,0,,,0
+271,10,Lazo Nicolás,ARG,0,1,10,0.0,0.0,11
+272,15,Lyutskanov Gordan,BUL,0,5,16,0.0,0.0,21
+273,16,Douglas-Powell Thomas Ewen,AUS,0,1,0,0.0,0.0,1
+274,4,Komenda Marcin,POL,0,0,1,0.0,0.0,1
+275,11,Nishida Yuji,JPN,0,8,18,0.0,0.0,26
+276,9,Iakovlev Ivan,RUS,0,0,0,,,0
